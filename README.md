@@ -53,7 +53,7 @@ trabalho
     </nav>
     <section id="sobre">
         <h2>Sobre Gatos</h2>
-        <p>Os gatos são animais de estimação adoráveis e independentes. Eles são conhecidos por sua pelagem macia e comportamento carismático.</p>
+        <p>Os gatos são animais de estimação adoráveis e independentes. Eles são conhecidos por sua pelagem macia e comportamento carismático. Eu amo gatos e gostaria ter varios. </p>
     </section>
     <section id="fotos">
         <h2>Fotos de Gatos</h2>
