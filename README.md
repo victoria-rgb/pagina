@@ -57,7 +57,7 @@ trabalho
     </section>
     <section id="fotos">
         <h2>Fotos de Gatos</h2>
-         <img src="/home/escola/Área de Trabalho/gatos/gatinho1.png" alt="Um gato fofo">
+         <img src="https://t1.ea.ltmcdn.com/pt/posts/1/5/4/nomes_fofos_neutros_para_gatos_24451_2_600.webp" alt="Um gato fofo">
         <img src="gatinho2.jpg" alt="Outro gato adorável">
     </section>
     <section id="contato">
