@@ -57,7 +57,7 @@ trabalho
     </section>
     <section id="fotos">
         <h2>Fotos de Gatos</h2>
-         <img src="gatinho1.png" alt="Um gato fofo">
+         <img src="/home/escola/Área de Trabalho/gatos/gatinho1.png" alt="Um gato fofo">
         <img src="gatinho2.jpg" alt="Outro gato adorável">
     </section>
     <section id="contato">
