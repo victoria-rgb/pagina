@@ -57,8 +57,7 @@ trabalho
     </section>
     <section id="fotos">
         <h2>Fotos de Gatos</h2>
-        <img src="gati![gatinho1](https://github.com/victoria-rgb/pagina/assets/105071164/580f2265-4ebd-40d9-90aa-764822be0648)
-nho1.jpg" alt="Um gato fofo">
+         <img src="gatinho1.png" alt="Um gato fofo">
         <img src="gatinho2.jpg" alt="Outro gato adorável">
     </section>
     <section id="contato">
